@@ -11,3 +11,4 @@
 ## Sida loo kiciyo (How to Run)
 1. Soo degso dhammaan faylasha mashruuca (Download Repo).
 2. Fur faylka `login.html` ama `index 2.html` adoo isticmaalaya Browser-kaaga (sida Chrome, Edge, ama Safari).
+3. https://abdiladiif373.github.io/System/
